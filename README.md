@@ -1,4 +1,8 @@
-# quiz
+# Quiz App
+
+Example Quiz App built with Vue3
+
+![Alt Text](https://media.giphy.com/media/hKKwbQF9MMw1DTWPLc/giphy.gif)
 
 ## Project setup
 ```
